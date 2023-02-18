@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 gui = Tk()
 
-gui.title('โปรแกรมบันทึกข้อมูล')
+gui.title('โปรแกรมบันทึกข้อมูล Money')
 
 gui.geometry('800x600')
 
