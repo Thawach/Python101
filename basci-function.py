@@ -10,6 +10,10 @@ def nihao():
 def konichiwa():
     print('konichiwa')
 
+    
+def Thai():
+    print('Thai')
+
 
 while True:
     friend = input('Where are you from: ')
